@@ -1,43 +1,43 @@
 {
   "Files": [
     {
-      "Id": "e:\\C#\\Blazor-WASM\\MyBlazorApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "E:\\C#\\Blazor-WASM\\MyBlazorApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "e:\\C#\\Blazor-WASM\\MyBlazorApp\\obj\\Debug\\net8.0\\compressed\\jv5cpc6dcm.gz",
+      "Id": "E:\\C#\\Blazor-WASM\\MyBlazorApp\\obj\\Debug\\net8.0\\compressed\\jv5cpc6dcm.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "e:\\C#\\Blazor-WASM\\MyBlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MyBlazorApp.styles.css",
+      "Id": "E:\\C#\\Blazor-WASM\\MyBlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MyBlazorApp.styles.css",
       "PackagePath": "staticwebassets\\MyBlazorApp.styles.css"
     },
     {
-      "Id": "e:\\C#\\Blazor-WASM\\MyBlazorApp\\wwwroot\\css\\app.css",
+      "Id": "E:\\C#\\Blazor-WASM\\MyBlazorApp\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "e:\\C#\\Blazor-WASM\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "E:\\C#\\Blazor-WASM\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "e:\\C#\\Blazor-WASM\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "E:\\C#\\Blazor-WASM\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "e:\\C#\\Blazor-WASM\\MyBlazorApp\\wwwroot\\favicon.png",
+      "Id": "E:\\C#\\Blazor-WASM\\MyBlazorApp\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "e:\\C#\\Blazor-WASM\\MyBlazorApp\\wwwroot\\icon-192.png",
+      "Id": "E:\\C#\\Blazor-WASM\\MyBlazorApp\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "e:\\C#\\Blazor-WASM\\MyBlazorApp\\wwwroot\\index.html",
+      "Id": "E:\\C#\\Blazor-WASM\\MyBlazorApp\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "e:\\C#\\Blazor-WASM\\MyBlazorApp\\wwwroot\\sample-data\\weather.json",
+      "Id": "E:\\C#\\Blazor-WASM\\MyBlazorApp\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {
