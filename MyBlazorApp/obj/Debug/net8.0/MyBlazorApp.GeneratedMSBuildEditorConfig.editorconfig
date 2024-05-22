@@ -42,6 +42,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlCdXR0b24ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/C\#/Blazor-WASM/MyBlazorApp/Pages/Todo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9kby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/C\#/Blazor-WASM/MyBlazorApp/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
